@@ -1,6 +1,6 @@
 # Hi there, I'm Queen 👋🏾
 
-## I'm a Student and Front-End Dev
+## Student, Front-End Dev
 
 - 🌱 I’m currently taking the IT automation with python course from google
 - 👩🏾‍💻 Interested in internships as a Front-end Dev or a sysadmin(Anything that has to do with python really)
