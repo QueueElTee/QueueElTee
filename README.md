@@ -31,7 +31,7 @@
 ### Social Media
 
 [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/QueueElTee)
-[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/queen-tijani-4a400522a/)
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/queen-l-tijani/)
 
 ---
 
