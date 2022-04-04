@@ -10,6 +10,7 @@
   - Work on more frontend projects
   - Have a more active presence on GitHub and Twitter
 - 😻 Check out my web portfolio: [Queen's Portfolio](https://queueeltee.github.io/Portfolio/)
+- 📜 Check out my resume: [Queen's Resume](https://drive.google.com/file/d/1UFYnafJpfyNP6YkDAVnQiUdok1RFQ5_c/view)
 - ⚡ Fun fact: I love playing COD mobile
 
 ---
