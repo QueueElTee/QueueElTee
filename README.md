@@ -12,7 +12,7 @@
 - 😻 Check out my portfolio: [Queen's Portfolio](https://queueeltee.github.io/Portfolio/)
 - 📜 Check out my resume: [Queen's Resume](https://drive.google.com/file/d/1UFYnafJpfyNP6YkDAVnQiUdok1RFQ5_c/view)
 - ⚡ Fun fact: I love playing COD mobile
-- 📫 Reach out to me: [tijaniqueen17@gmail.com](mailto:tijaniqueen17@gmail.com)
+- 📬 Reach out to me: [tijaniqueen17@gmail.com](mailto:tijaniqueen17@gmail.com)
 
 ---
 
@@ -37,10 +37,13 @@
 
 ---
 
-### GitHub Stats
-<div style="display: inline-block;">
+<div  style="display: inline-block;">
+  <h3>GitHub Stats</h3>
   <img align="left" style="margin-bottom: 1rem" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QueueElTee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> 
 
-### Top Languages
+
+  <h3>Top Languages</h3> 
   <img align="left" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueueElTee&langs_count=7&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
+
+---
