@@ -3,7 +3,7 @@
 ## Student, Front-End Dev
 
 - 🌱 I’m currently taking the IT automation with python course from google
-- 👩🏾‍💻 Interested in internships as a Front-end Dev or a sysadmin(Anything that has to do with python really)
+- 👩🏾‍💻 Open to internships as a Front-end Dev or a sysadmin(Anything that has to do with python really)
 - 🥅 2022 Goals:  
   - Finish the IT automation with python course
   - Start learning data analyticis
@@ -44,7 +44,7 @@
     <img align="left" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QueueElTee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </div>
 
-  <div style="margin-top: 0.5rem">
+  <div style="margin-top: 16px">
     <img align="left" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueueElTee&langs_count=7&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </div>
 </div>
