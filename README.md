@@ -37,13 +37,14 @@
 
 ---
 
-<div  style="display: inline-block;">
-  <h3>GitHub Stats</h3>
-  <img align="left" style="margin-bottom: 1rem" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QueueElTee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> 
+### GitHub Stats and Top Languages
+<div style="display:flex; flex-direction:column">
+  
+  <div>
+    <img align="left" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QueueElTee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  </div>
 
-  <br/>
-  <h3>Top Languages</h3> 
-  <img align="left" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueueElTee&langs_count=7&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <div style="margin-top: 0.5rem">
+    <img align="left" alt="QueueElTee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueueElTee&langs_count=7&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  </div>
 </div>
-
----
