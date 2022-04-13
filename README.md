@@ -6,7 +6,7 @@
 - 👩🏾‍💻 Open to internships as a Front-end Dev or a sysadmin(Anything that has to do with python really)
 - 🥅 2022 Goals:  
   - Finish the IT automation with python course
-  - Start learning data analyticis
+  - Start learning data analytics
   - Work on more frontend projects
   - Have a more active presence on GitHub and Twitter
 - 😻 Check out my portfolio: [Queen's Portfolio](https://queueeltee.github.io/Portfolio/)
