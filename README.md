@@ -2,10 +2,10 @@
 
 ## Student, Front-End Dev
 
-- 🌱 I’m currently taking the IT automation with python course from google
+- 🌱 Recently completed the IT Automation with python course from Google
 - 👩🏾‍💻 Open to internships as a Front-end Dev or a sysadmin(Anything that has to do with python really)
 - 🥅 2022 Goals:  
-  - Finish the IT automation with python course 🔄
+  - Finish the IT automation with python course ✅
   - Revise JavaScript concepts 🔜
   - Learn React properly 🔜
   - Work on more frontend projects 🔄
