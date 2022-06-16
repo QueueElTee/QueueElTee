@@ -11,7 +11,7 @@
   - Work on more frontend projects 🔄
   - Have a more active presence on GitHub and Twitter 🔄
 - 😻 Check out my portfolio: [Queen's Portfolio](https://queueeltee.github.io/Portfolio/)
-- 📜 Check out my resume: [Queen's Resume](https://drive.google.com/file/d/1UFYnafJpfyNP6YkDAVnQiUdok1RFQ5_c/view)
+- 📜 Check out my resume: [Queen's Resume](https://drive.google.com/file/d/1CWfeKFU5SHTqZSFic8kJJYEjC5KmW3ze/view?usp=sharing)
 - ⚡ Fun fact: I love playing COD mobile
 - 📬 Reach out to me: [tijaniqueen17@gmail.com](mailto:tijaniqueen17@gmail.com)
 
