@@ -4,7 +4,7 @@
 
 - 🌱 Currently revising JavaScript concepts
 - 👩🏾‍💻 Open to internships as a Front-end Dev or a sysadmin(Anything that has to do with python really)
-- 🥅 2022 Goals:  
+- 🥅 2023 Goals:  
   - Finish the IT automation with python course ✅
   - Revise JavaScript concepts 🔄
   - Learn React properly 🔜
